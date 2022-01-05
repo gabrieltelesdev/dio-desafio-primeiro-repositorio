@@ -1,0 +1,8 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bach é um terminal extendido para otimizar o uso do Git.
+
+Untracked - arquivos que o git ainda não tem conhecimento.
+Tracked - arquivos que o git tem conhecimento deles.
+Unmodified - não modificado.
+modified - sofreu modificação.
+Staged - onde ficam os arquivos que estão se preparando para poder fazer parte de outro tipo de agrupamento.
